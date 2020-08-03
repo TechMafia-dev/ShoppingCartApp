@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890612677129",
+    "firebase_url": "https://justforexp-38035.firebaseio.com",
+    "project_id": "justforexp-38035",
+    "storage_bucket": "justforexp-38035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890612677129:android:ad84c7f77ceb46ca1796d8",
+        "android_client_info": {
+          "package_name": "com.justforfun.phoneverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890612677129-68kttfuo3ul1d1eevvl0jt1a0g18flcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justforfun.phoneverification",
+            "certificate_hash": "2abf08e6f718b9395c76a8e06624a6361b218366"
+          }
+        },
+        {
+          "client_id": "890612677129-c2ss33p68qpefk7qj30f4rqrjnimf6mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBby8E0gntw4VhcT1S7S12mYuAozpCg27w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890612677129-c2ss33p68qpefk7qj30f4rqrjnimf6mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
